@@ -1,0 +1,7 @@
+{
+  "id": "example-free-music",
+  "name": "Example Free Music + Lyrics + Movies",
+  "version": "1.0.0",
+  "description": "iTunes search, lrclib lyrics, archive.org movies",
+  "main": "index.js"
+}
